@@ -1,1 +1,17 @@
 /*  your css code here. If applicable */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+  }
+  #band {
+    list-style-type: none;
+	  text-align: center;
+    padding: 0;
+  }
+  #band li {
+    margin-bottom: 5px;
+	  margin: 5px;
+	  padding: 20px;
+	  background-color: white; 
+  }
